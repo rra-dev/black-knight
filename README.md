@@ -1,2 +1,2 @@
 # black-knight
-Loose strings from past positions
+Loose ends from past positions
